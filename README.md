@@ -1,19 +1,26 @@
 # Deep_Learning_Project_of_Waste_Management
+This project is train a model to classify the waste like human with Deep Learning.
 
-This project id train a model to classify the waste like human with Deep Learning.
+# Aim
+  - Train a model to see the way as human with Deep Learning.
+  - Combining the use of robotic arms to classify waste effectively without days off.
+  - Recycle the waste as much as possible to give a better environment.
 
-Aim:
-1) Train a model to see the way as human with Deep Learning.
-2) Combining the use of robotic arms to classify waste effectively without days off.
-3) Recycle the waste as much as possible to give a better environment.
+# Data Set
+  - https://www.kaggle.com/asdasdasasdas/garbage-classification (2500 images)
+  - Images download from google (3500 images)
 
-Sources:
-1) https://www.kaggle.com/asdasdasasdas/garbage-classification (2500 images)
-2) Images download from google (3500 images)
-All images are then converted into JPG files 
-Delete the crashed image files
-Dataset is divided into classes as cardboard, glass, metal, paper, plastic and trash 
+# Data Clean
+  - All images are then converted into JPG files 
+  - Delete the crashed image files
+  - Dataset is divided into classes as cardboard, glass, metal, paper, plastic and trash 
 
+# Model Creation
+  - InceptionV3
+  - InceptionResNetV2
+  - VGG19
+  
+# Evaluation And Prediction
 Overall trend: increase
 Training accuracy for models are around 80% 
 Splitting point from training and validation accuracy for:    V2 & V3:  at 0.63; VGG19: at 0.57 
