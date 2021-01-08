@@ -36,7 +36,7 @@ Overall trend: increase
   - Distance between training and validation: VGG19: 0.15; V3:0.1; V2: 0.05 (shortest distance)
   - However, accuracy of VGG19 is the highest
 # Prediction
-<img src="https://github.com/cpuikin/Deep_Learning_Project_of_Waste_Management/blob/main/image/prediction.png" width="300" height="300" />
+<img src="https://github.com/cpuikin/Deep_Learning_Project_of_Waste_Management/blob/main/image/prediction.png" width="500" height="300" />
 
 Most of them are correct except the cocacola can. It is incorrectly predicted as trash but it should be identified as metal.
 Reason: Maybe color and logo of the can and glare of the can
