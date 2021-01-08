@@ -1,5 +1,5 @@
 # Deep_Learning_Project_of_Waste_Management
-<img src="https://github.com/cpuikin/Deep_Learning_Project_of_Waste_Management/blob/main/image/waste-classify-logo.png" width="1000" height="3000" />
+<img src="https://github.com/cpuikin/Deep_Learning_Project_of_Waste_Management/blob/main/image/waste-classify-logo.png" width="1000" height="300" />
 
 This project is train a model to classify the waste like human with Deep Learning.
 
